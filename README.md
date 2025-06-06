@@ -1,10 +1,10 @@
 <h1 align="center">Gmmk Pro - Custom Firmware</h1>
 <h1>Layouts</h1>
-<h3>Keyboard</h3>
+<h3  align="center">Keyboard</h3>
 
 ![Layout1](https://github.com/user-attachments/assets/7c3a0550-2737-4153-9b5c-bd5f6198e996)
 #
-<h3>Utility</h2>
+<h3 align="center">Utility</h2>
 
 ![Layout2](https://github.com/user-attachments/assets/ce89ba1f-ee29-4c5c-b89e-28e14258fd66)
 <h1>Features</h1>
