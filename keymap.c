@@ -22,7 +22,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 // Change this value to change the debounce time
-#define DEBOUNCE 8
+#define DEBOUNCE 3
 
 // Knob encoder
 #if defined(ENCODER_MAP_ENABLE)
