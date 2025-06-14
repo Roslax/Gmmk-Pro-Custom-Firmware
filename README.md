@@ -13,7 +13,7 @@
       <li>Bootloader - through the QK_BOOT (FN + B)</li>
       <li>Encoder - to change the volume through your knob</li>
       <li>Polling rate - 1000hz/1ms</li>
-      <li>Debounse time - 8ms (to customize it, just edit the rules.mk and change the debounce value)</li>
+      <li>Debounse time - 8ms (to customize it, just edit the debounce variable in keymap.c)</li>
 </ul>
 
 # 
